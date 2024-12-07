@@ -25,7 +25,7 @@ This repository contains a collection of data, tools, and scripts designed to an
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Art-and-Craft-Supplies-Analysis.git
+git clone https://github.com/nazrulislam1835/Art-and-Craft-Supplies-Analysis.git
 cd Art-and-Craft-Supplies-Analysis
 pip install -r requirements.txt
 ```
@@ -52,4 +52,4 @@ Please make sure to follow the code of conduct and write tests for new features.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or suggestions, feel free to contact me at nazrulislam1835.com
+For any questions or suggestions, feel free to contact me at nazrulislam1835@gmail.com
